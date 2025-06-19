@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    justify-content: center;
+}
+
+div {
+    border-radius: 5px;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+}
